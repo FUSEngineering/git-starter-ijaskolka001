@@ -90,7 +90,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next step (What you should do)
 
-* Ian Jaskolka has completed this course. This was really cool! 
+* Open a pull request and let your teacher know that you’ve finished this course. 
 
 ## 📝 Optional next steps 
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
